@@ -1,0 +1,1 @@
+<% response.redirect("http://www.neatshows.com/nwshows/default.htm") %>

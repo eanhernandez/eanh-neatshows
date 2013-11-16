@@ -1,0 +1,28 @@
+<%
+
+Dim rs, strconn
+
+strconn = "driver={SQL Server};server=mssql1.gearhost.com;uid=eanh;pwd=xxxxxxxx;database=mailinglists;"
+
+set rs = Server.CreateObject("ADODB.Recordset")
+
+rs.Open "Select * from email", strconn
+
+Response.Write "<h1>birdbath mailing list</h1>"
+
+do while not rs.EOF
+
+Response.Write rs("address") & vbtab & rs("country") & "<br>"
+
+Response.Write "<BR>"
+
+rs.MoveNext
+
+loop
+
+rs.Close
+
+Set rs = Nothing
+
+
+%>
