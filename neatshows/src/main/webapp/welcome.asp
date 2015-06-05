@@ -32,10 +32,10 @@
 
 	<TR><TD></TD><TD>
 
-			<p><font face="verdana, arial, helvetica">We have a show! &nbsp;</FONT></p>
+			<!--<p><font face="verdana, arial, helvetica">We have a show! &nbsp;</FONT></p>
 			<p><font face="verdana, arial, helvetica">Friday, September 23rd at Darrell's Tavern 18041 Aurora Avenue North, Seattle WA &nbsp;</FONT></p>
 			<p><font face="verdana, arial, helvetica">With the Utmost and the Primate Five &nbsp;</FONT></p>
-
+			//-->
 			<br><br><br>
 	<font face="verdana, arial, helvetica">Feel free to check out our </font>
 	<FONT FACE="verdana, arial, helvetica" SIZE="3">
