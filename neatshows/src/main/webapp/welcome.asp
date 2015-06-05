@@ -1,7 +1,7 @@
 <%  i_ShowAllBlogEntries = 0 %>
 
 <HTML>
-<HEAD><TITLE>Tales From The BirdBath</TITLE>
+<HEAD><TITLE>Tales. From. The. BirdBath.</TITLE>
 
 <META  name="description" content="Tales From The Birdbath home page">
 <META  name="keywords" content="tales, birdbath, pop, punk, sicko, ean, indie, scooter boy, winterstorm, olympia, average day">
