@@ -4,7 +4,7 @@
 //response.sendRedirect(redirectURL);
 
 response.setStatus(301);
-response.setHeader( "Location", "hhttp://www.talesfromthebirdbath.com);
+response.setHeader( "Location", "http://www.talesfromthebirdbath.com");
 response.setHeader( "Connection", "close" );
 %>
 
